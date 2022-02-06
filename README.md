@@ -5,6 +5,8 @@ https://link.springer.com/chapter/10.1007/978-981-13-9361-7_6
 https://scholar.google.co.in/citations?hl=en&user=FILxP1cAAAAJ
 ### ResearchGate Link
 https://www.researchgate.net/publication/334238590_Online_Handwritten_Bangla_Character_Recognition_Using_Frechet_Distance_and_Distance_Based_Features
+### Google Books
+https://books.google.co.in/books?hl=en&lr=&id=i8WgDwAAQBAJ&oi=fnd&pg=PR5&ots=SkrcGD1gjo&sig=Sh5HIHgANRV8Gcv-V0kOkgBZIh0#v=onepage&q&f=false
 ### Amazon India
 https://www.amazon.in/Document-Analysis-Recognition-Conjunction-Information/dp/9811393605
 ### Abstract
